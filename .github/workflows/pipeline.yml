@@ -1,4 +1,4 @@
-name: Verademo-Pipeline-1
+name: Verademo-Pipeline
 
 on: [push]
 
