@@ -1,4 +1,4 @@
-name: Verademo-git
+name: Verademo
 
 on: [push]
 
