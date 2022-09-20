@@ -5,6 +5,7 @@ on: [push]
 jobs:
   build-pipelinescan:
       runs-on: ubuntu-latest
+  
   baseline:
       runs-on: ubuntu-latest
 
