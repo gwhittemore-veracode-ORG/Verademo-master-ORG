@@ -1,5 +1,5 @@
 name: Verademo
-
+#runnow
 on: [push]
 
 jobs:
